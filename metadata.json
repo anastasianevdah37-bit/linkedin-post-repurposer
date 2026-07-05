@@ -1,0 +1,8 @@
+{
+  "name": "Post Repurposer",
+  "description": "An AI agent that repurposes long LinkedIn posts into high-density slide carousels, short-form drafts, and discussion-sparking comment hooks with core messaging analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
